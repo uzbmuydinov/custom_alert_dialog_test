@@ -1,16 +1,7 @@
 # custom_alert_dialog_test
 
-A new Flutter project.
+## User tomonidan yaratilgan packageni ishlatish bo'yicha na'muna:
 
-## Getting Started
+https://youtu.be/jh0rxK34DfQ
+https://medium.com/@uzbmuydinov/flutter-uchun-custom-package-yaratish-b8ea14910eef
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
